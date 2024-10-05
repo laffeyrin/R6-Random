@@ -1,3 +1,4 @@
+'''
 import random
 
 print("Welcome to R6 Randomizor")
@@ -35,3 +36,5 @@ if side.capitalize() == 'Defender':
 else:
     attacker_operators = randomize_operators(num_operators, attacker_roles)
     print(f"Your random attacker operators are: {', '.join(attacker_operators)}")
+'''
+print("This was the original master code before it was broken down.")
